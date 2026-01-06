@@ -1,0 +1,7 @@
+{
+  "name": "LuxeLens: AI Jewelry Retoucher",
+  "description": "Transform casual phone photos of jewelry into professional, studio-quality product shots using Gemini AI. Automatically removes backgrounds, enhances sparkles, and polishes metal finishes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
